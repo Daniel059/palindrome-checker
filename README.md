@@ -21,3 +21,7 @@ The Palindrome Checker is a simple web application that allows users to check wh
 - HTML5
 - CSS3
 - JavaScript
+
+## Deployment
+- Check the deployed app on the link below 👇
+https://main--danny-palindrome-checker.netlify.app/
